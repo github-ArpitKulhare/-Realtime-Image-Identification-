@@ -1,0 +1,49 @@
+body{
+    font-family: 'Zen Dots', cursive;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px mediumslateblue;
+}
+
+.heading_div {
+    float: none;
+    background: chartreuse;
+    padding: 10px;
+    border-radius: 20px;
+    color: mediumorchid;
+    box-shadow: 10px 10px 10px mediumspringgreen;
+}
+
+.heading_div2 {
+    font-size: 20px;
+    color: orange;
+}
+
+.result_para {
+    box-shadow: 10px 10px 10px yellow;
+    font-size: 25px;
+    text-align: left;
+    width: 30%;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: lightblue;
+    bottom: 0;
+    line-height: 3;
+    background-color: chartreuse;
+    text-align: center;
+    width: 100%;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px cyan;
+    border: 5px ridge lightcoral;
+    border-radius: 23px;
+    margin-top: 150px;
+    position : fixed;
+}
